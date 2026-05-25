@@ -1,7 +1,3 @@
-# Computer Programming: Portfolio
-
-## Adam Duker
-
 # Python Level 4 Coursework Archive
 
 A comprehensive collection of my programming work, lab exercises, and core notes from Semester 1 of my first year at university. 
