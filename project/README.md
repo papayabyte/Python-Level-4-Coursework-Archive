@@ -1,0 +1,5 @@
+# Project
+
+This program will run in command line just find with running "py qualifying.py" into the command prompt, there was an issue running this in the Visual Studio Code terminal as results were mixed on how the file read in the program was read, there was a issue where in VSC it would cause an issue causing a error to occur, when mentioned in Labs, I was told I wasn't the only one with such issue inside VSC, so I was suggested to just make sure it worked in CMD and to make note of it here.
+
+This program will read from the drivers.txt file, it is already refilled with the information of the 2025 F1 season, but it can be edited to have different names, numbers, countries or teams, the code will ask if you if you would like to have the current set of drivers or if you want to change them too,

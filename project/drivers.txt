@@ -1,0 +1,20 @@
+Oscar Piastri, McLaren, AUS, 81
+Lando Norris, McLaren, GBR, 04
+George Russell, Mercedes, GBR, 63
+Andrea Kimi Antonelli, Mercedes, ITA, 12
+Max Verstappen, Red Bull, NED, 01
+Yuki Tsunoda, Red Bull, JPN, 22
+Charles Leclerc, Ferrari, ITA, 16
+Lewis Hamilton, Ferrari, GBR, 44
+Alexander Albon, Williams, THA, 23
+Carlos Saniz, Williams, ESP, 55
+Liam Lawson, Racing Bulls, NZL, 30
+Isack Hadjar, Racing Bulls, FRA, 06
+Lance Stroll, Aston Martin, CAN, 18
+Fernando Alonso, Aston Martin, ESP, 14
+Esteban Ocon, Hass, FRA, 31
+Oliver Bearman, Hass, GBR, 87
+Nico Hulkenberg, Kick Sauber, GER, 27
+Gabriel Bortoleo, Kick Sauber, BRZ, 05
+Pierre Gasly, Alpine, FRA, 10
+Franco Colapinto, Alpine, ARG, 43
